@@ -2,7 +2,7 @@
 
 Hello! I am currently a 3rd year Computer Science major at UC San Diego. I am making this page for my CSE 110 class. 
 
-![UCSD CSE] (https://cse.ucsd.edu/sites/cse.ucsd.edu/themes/csebs/images/UCSDLogo_JSOE_Blue.png)
+![UCSD CSE](https://cse.ucsd.edu/sites/cse.ucsd.edu/themes/csebs/images/UCSDLogo_JSOE_Blue.png)
 
 ## My favorite coding languages
 
