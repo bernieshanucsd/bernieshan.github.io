@@ -11,7 +11,7 @@ Here are a few of my favorite programming languages, in order of familiarity.
 2. Java
 3. Python
 
-### My goals for CSE 110
+## My goals for CSE 110
 - [ ] Become more familiar with coding habits
 - [ ] Get better coding habits
 - [ ] Get a good grade in the class
