@@ -42,3 +42,5 @@ int main() {
 This site was built for my [CSE 110](https://catalog.ucsd.edu/courses/CSE.html#cse110) class.
 
 [My README.md file](README.md)
+
+[Return back to the best quote from the CSE department](https://github.com/bernieshanucsd/bernieshan.github.io/blob/vs-code-edit/index.md#best-quote-from-cse-department)
